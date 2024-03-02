@@ -2,7 +2,7 @@
 import React from 'react';
 
 function ModeSelection({ onSelectMode }) {
-  const modes = [30, 60, 90, 120];
+  const modes = [60, 90, 120, 300];
 
   return (
     <div>
